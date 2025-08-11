@@ -1,0 +1,38 @@
+{
+    "webApplication": [
+      {
+        "title": "Implement user authentication",
+        "status": "To Do",
+        "tag": ["Feature", "High Priority"]
+      },
+      {
+        "title": "Update documentation", 
+        "status": "Done",
+        "tag": "Feature"
+      }
+    ],
+    "mobileApplication": [
+      {
+        "title": "Push notification system",
+        "status": "To Do",
+        "tag": "Feature"
+      },
+      {
+        "title": "Offline mode",
+        "status": "In Progress", 
+        "tag": ["Feature", "High Priority"]
+      }
+    ],
+    "marketingCampaign": [
+      {
+        "title": "Social media calendar",
+        "status": "To Do",
+        "tag": "Feature"
+      },
+      {
+        "title": "Email campaign",
+        "status": "In Progress",
+        "tag": ["Design", "High Priority"]
+      }
+    ]
+  }
